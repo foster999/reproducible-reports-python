@@ -87,4 +87,4 @@ Two plus two equals `r 2 + 2`.
 
 Text inserted inline in Rmarkdown inherits the formatting of the surrounding content.
 
-This Rmarkdown syntax can directly reference variables from previous code chunks, while this is [not currently supported in MyST Notebooks]().
+This Rmarkdown syntax can directly reference variables from previous code chunks, while this is [not currently supported in MyST Notebooks](https://github.com/executablebooks/MyST-NB/issues/186).
