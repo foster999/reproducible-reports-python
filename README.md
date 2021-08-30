@@ -24,7 +24,7 @@ key: value
 |---|---|---|
 | Document title (displayed in browser tab) | `title:`| `title:`|
 | Output format | Specified when building with `sphinx`, for example `make html`| `output:` |
-| Formats for conversion to/from `.ipynb` notebook files |`jupytext:`| Converted during knitting |
+| Formats for conversion to/from `.ipynb` notebook files |`jupytext:`| Doesn't require conversion to be executed |
 Kernel to be used to execute notebook code |`kernelspec:`| specified on cell by cell basis (see below) |
 
 ### Cell metadata (chunk options)
