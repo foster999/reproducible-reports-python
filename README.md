@@ -1,6 +1,6 @@
 # Reproducible Reports in Python
 
-This repo contains [a minimal example reproducible analytical report](./example.md) written as a [Markedly Structured Text (MyST) Notebook](https://github.com/executablebooks/MyST-NB)). This document can be used to create a HTML report by installing the Python dependencies (requirements.txt) and running `make html` from the root of the project.
+This repo contains [a minimal example reproducible analytical report](./example.md) written as a [Markedly Structured Text (MyST) Notebook](https://github.com/executablebooks/MyST-NB)). This document can be used to create a HTML report by installing the [Python dependencies](./requirements.txt) (`pip install -r requirements.txt`) and running `make html` from the root of the project.
 
 Below, the syntax for MyST Notebooks is compared with that of [Rmarkdown](https://rmarkdown.rstudio.com/). This aims to provide a reference for Python users, looking for an R-independent equivalent to Rmarkdown. The [default Rmarkdown template](./example.Rmd) is included for reference.
 
